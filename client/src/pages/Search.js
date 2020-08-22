@@ -131,14 +131,7 @@ const Books = () => {
                                                             </div>
 
                                                         </div>
-                                                        {/* <li key={bookInfo.title}>
-                                                            <p>{bookInfo.title}
-                                                                {bookInfo.authors}
-                                                                {bookInfo.description}
-                                                                {bookInfo.imageLinks.smallThumbnail}
-                                                                {bookInfo.previewLlink}
-                                                            </p>
-                                                        </li> */}
+                                    
                                                     </div>
                                                 </div>
                                             );
