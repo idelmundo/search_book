@@ -12,7 +12,7 @@ function App() {
         <Nav />
         <Switch>
           <Route exact path= {"/"} component={SearchBooks} />
-          <Route exact path={"/saved"}>
+          <Route exact path={"/Saved"}>
             <Saved />
           </Route>
           <Route>
