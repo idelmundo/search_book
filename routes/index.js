@@ -4,7 +4,7 @@ const apiRoutes = require("./api");
 
 // API Routes
 router.use("/api", apiRoutes);
-router.use("/" ,(req, res)=>{
+router.use("/saved" ,(req, res)=>{
     res.send("Meow Woof")
 })
 
